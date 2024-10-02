@@ -1,0 +1,28 @@
+body {
+  font-family: Trebuchet, monospace;
+  width: 300px;
+  padding: 10px;
+  color: #F8C8DC;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 10px;
+}
+
+input, button {
+  margin-top: 5px;
+  padding: 5px;
+}
+
+#countdown-display {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
